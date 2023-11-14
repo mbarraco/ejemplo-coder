@@ -1,5 +1,5 @@
 def print_board(longitud, entrada, salida):
-    print(["_", "_", "_"])
+    print(["_", "_", "_", "_"])
 
 
 
